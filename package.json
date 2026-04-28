@@ -1,5 +1,7 @@
 {
   "name": "catch-up-practice",
+  "description": "Una aplicación de práctica para la PC1",
+  "author": "",
   "private": true,
   "version": "0.0.0",
   "type": "module",
